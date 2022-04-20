@@ -118,7 +118,7 @@ You can't get an infinite number of slime chunks. The limits imposed are as foll
 - `/tm | /tmsg | /teammsg`: Message within your team.
 ### Using proximity chat (Simple Voice Chat)
 Derpitcraft has a proximity chat system powered by the [`Simple Voice Chat mod`](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat). You can download this mod from [here](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) to play with Proximity Chat on Derpitcraft. It is optional. This system can only work with Java clients. We recommend Bedrock clients use Discord.
-Once you have downloaded the mod, it should work out of the box. Read more about the mod on it's wiki (https://modrepo.de/minecraft/voicechat/overview). There are very detailed explanations available. If you still do not understand how to use this mod, or it doesn't work, raise a ticket.
+Once you have downloaded the mod, it should work out of the box. Read more about the mod on its [wiki](https://modrepo.de/minecraft/voicechat/overview). There are very detailed explanations available. If you still do not understand how to use this mod, or it doesn't work, raise a ticket.
 You can also join voice chat "groups". This is an easy way to voice chat between a group of players. This is recommended for teams. You can password protect these groups from the interactive creation wizard. Groups allow members to talk to each other even when they are not in close proximity.
 ### Coordinates Command and Claims
 Derpitcraft has a rudimentary claims system. As explained earlier, claims are done based on mutual respect. To make it easier for you, we have a [`#ds9-coordinates`](https://discord.com/channels/297301054930944011/965230296226222150) channel. This channel is updated by our bot.
