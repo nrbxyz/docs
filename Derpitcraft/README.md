@@ -4,7 +4,7 @@ Derpitcraft is a **vanilla-like** economy SMP, for both Java and Bedrock, with c
 You can play Derpitcraft by registering for it: Use `/dcregister` in any channel.
 ### Important details
 #### Version support
-Minecraft **Bedrock Edition 1.18.0 - 1.18.10** and Minecraft **Java Edition 1.18.x**.
+Minecraft **Bedrock Edition** `1.18.0 - 1.18.10` and Minecraft **Java Edition** `1.18.x`.
 #### How to join
 Run `$ip` to find the IPs for both bedrock and java. Join the **TrixMC Network** using the IPs. **Right click** on the **Derpitcraft Season 9** NPC to join. You can join the SMP after **April 20th 2022**.
 #### Spawn coordinates
