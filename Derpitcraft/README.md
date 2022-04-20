@@ -1,7 +1,7 @@
 # Derpitcraft Season 9: Rules and Guidelines
 ## A brief introduction and some important details
 Derpitcraft is a **vanilla-like** economy SMP, for both Java and Bedrock, with cracked-support. It has a **friendly** community and best-in-class **anti-grief** measures. There is a **whitelist** to ensure the best multiplayer minecraft experience!
-You can play Derpitcraft by registering for it: Use `/dcregister` in any channel.
+You can play Derpitcraft by registering for it: Use `/dcregister` in any discord channel.
 ### Important details
 #### Version support
 Minecraft **Bedrock Edition** `1.18.0 - 1.18.10` and Minecraft **Java Edition** `1.18.x`.
