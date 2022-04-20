@@ -32,7 +32,7 @@ PvP fights and discrepancies are judged on a case to case basis, and an investig
    - *Paying for plots*: Payment is done by placing **one diamond block** on the pedestal in the shopping district. **One diamond block** buys you a plot of **144 blocks** in size. This payment is **not refundable**. You can start building on the SD after you have paid. Once you pay, you can mark your shop's area using a border.
    
        **WARNING**: You **CANNOT** break blocks once you place them on the pedestal, so **DONT PLACE ANY OTHER BLOCK**. Raise a ticket if you make a mistake.
-   - *Other details*: Plots **can** be asked to be by moderators if deemed necessary. They **cannot** be within 2 blocks of each other. Respect other's plots. Don't fill the whole district with shops! Instead, build roads and pathways!
+   - *Other details*: Plots **can** be asked to be removed by moderators if deemed necessary. They **cannot** be within 2 blocks of each other. Respect other's plots. Don't fill the whole district with shops! Instead, build roads and pathways!
 6. **Chat Policy**: *Spamming* in chat is **not** allowed. *Excessive swearing* is **not** allowed. Do **not** *insult* other players. Severe action can be taken if you are reported. Our server has *team chats*. These are relatively unmoderated. Please read the guide on **Teams** for more information. This extends to voice chat's using the Proximity Chat system on Derpitcraft.
    
 7. **Spectator Account Policy**: Spectator accounts will not be allowed this season, except for special cases. If you need a spectator account for any reason, please raise a ticket. Players can use the Replay mod (https://www.replaymod.com/) to create time-lapse's, etc. as an alternative. It is recommended to use this mod.
