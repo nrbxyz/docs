@@ -115,7 +115,7 @@ You can't get an infinite number of slime chunks. The limits imposed are as foll
 - `/trigger nc_inNether`: Converts current coordinates to overworld coordinates. Can be used as a way to efficiently calculate coordinates for portals.
 - `/trigger nc_inOverworld`: Converts current coordinates to nether coordinates.Can be used as a way to efficiently calculate coordinates for portals.
 - `/aboutdc`: Shows information about Derpitcraft.
-- `/tm | /tmsg | /teammsg`: Message within your team.
+- `/tm` | `/tmsg` | `/teammsg`: Message within your team.
 ### Using proximity chat (Simple Voice Chat)
 Derpitcraft has a proximity chat system powered by the [`Simple Voice Chat mod`](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat). You can download this mod from [here](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) to play with Proximity Chat on Derpitcraft. It is optional. This system can only work with Java clients. We recommend Bedrock clients use Discord.
 Once you have downloaded the mod, it should work out of the box. Read more about the mod on its [wiki](https://modrepo.de/minecraft/voicechat/overview). There are very detailed explanations available. If you still do not understand how to use this mod, or it doesn't work, raise a ticket.
