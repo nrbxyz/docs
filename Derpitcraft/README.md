@@ -147,7 +147,7 @@ Slime chunks are a fairly important part of the game. Raise a ticket to get a sl
 
 #### Slime Chunk Limits
 
-You can't get an infinte number of slime chunks. The limits imposed are as follows:
+You can't get an infinite number of slime chunks. The limits imposed are as follows:
 
 - For a team size of 1-3 players: 1 slime chunk.
 - For a team size of 4-7 players: 2 slime chunks.
