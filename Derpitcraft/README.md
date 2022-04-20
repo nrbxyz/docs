@@ -92,7 +92,7 @@ To message within your team, use the `/tmsg <msg>` command in-game.
 If you are stationary for more than a set amount of time, you will automatically be put into the AFK team. You can't use `/tmsg` to chat while you are in the AFK team. To get out of AFK, just move around. 
 You can also set yourself as AFK manually by using `/afk`. This will mark you as AFK for the benefit of everyone on the server.
 ### Getting Slime Chunks
-Slime chunks are a fairly important Point of the game. Raise a ticket to get a slime chunk close to your coordinates.
+Slime chunks are a fairly important part of the game. Raise a ticket to get a slime chunk close to your coordinates.
 
 #### Slime Chunk Limits
 
