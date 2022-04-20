@@ -6,7 +6,7 @@ You can play Derpitcraft by registering for it: Use `/dcregister` in any channel
 #### Version support
 Minecraft **Bedrock Edition** `1.18.0 - 1.18.10` and Minecraft **Java Edition** `1.18.x`.
 #### How to join
-Run `$ip` to find the IPs for both bedrock and java. Join the **TrixMC Network** using the IPs. **Right click** on the **Derpitcraft Season 9** NPC to join. You can join the SMP after **April 20th 2022**.
+Run `$ip` on our discord to find the IPs for both bedrock and java. Join **TrixMC** using the IP. **Right-click**  the **Derpitcraft Season 9** NPC to join (If you are on mobile, you can tap and hold the NPC.). You can join the SMP after **April 20th 2022**.
 #### Spawn coordinates
 **Coordinates [X, Z]:**: `[-161, -223]` 
 This is world center. There is a world border at **7500 blocks**.
