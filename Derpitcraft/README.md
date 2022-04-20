@@ -9,7 +9,7 @@ Minecraft **Bedrock Edition** `1.18.0 - 1.18.10` and Minecraft **Java Edition** 
 Run `$ip` on our discord to find the IPs for both bedrock and java. Join **TrixMC** using the IP. **Right-click**  the **Derpitcraft Season 9** NPC to join (If you are on mobile, you can tap and hold the NPC.). You can join the SMP after **April 20th 2022**.
 #### Spawn coordinates
 **Coordinates [X, Z]:**: `[-161, -223]` 
-This is world center. There is a world border at **7500 blocks**.
+This is the world centre. There is a world border at **7500 blocks** on each axis.
 #### Shopping District coordinates
 **Coordinates [X, Z]:**: `[-250, -262]`
 Scroll down to read more about what the Shopping District is (**Point 5**).
