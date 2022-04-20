@@ -84,7 +84,7 @@ There might be a few compatibility issues with the server, since we support both
     12. Several other custom commands have been added. These are all listed in the How To Guides
 ## How to guides
 ### Reporting Players
-As a rule of thumb, try to resolve issues peacefully, without moderator intervention. If this doesn't work, report the player by raising a ticket (using `$rt`) and choosing "TrixMC" issue in the select menu. Please include the Player's IGN in your report if you can. It is important to take **screenshots** and even **video recordings** as evidence in some cases. If you feel like your issue is not adequeately solved by the moderators, ping **morpheus** directly.
+As a rule of thumb, try to resolve issues peacefully, without moderator intervention. If this doesn't work, report the player by raising a ticket (using `$rt`) and choosing `TrixMC` issue in the select menu. Please include the Player's IGN in your report if you can. It is important to take **screenshots** and even **video recordings** as evidence in some cases. If you feel like your issue is not adequeately solved by the moderators, ping **morpheus** directly.
 ### Teams and the AFK System
 To declare a team, raise a ticket. In the ticket, you will be asked to mention who the team members are, and the preffered team colour and Minecraft Prefix that will show up in-game. Teams have slightly altered rules for slime chunks (see the next how to guide). A team can have a maximum of **8 members**.
 To message within your team, use the `/tmsg <msg>` command in-game.
