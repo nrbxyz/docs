@@ -78,7 +78,7 @@ There might be a few compatibility issues with the server, since we support both
         3. You can craft droppers to dispensers. 
         4. You can dye sandstone and universally dye blocks. 
         5. You can make shulkers in any shape. 
-        6. Blackstone can be used everywhere cobblestone is used. 
+        6. Blackstone can be used everywhere cobblestone is used in crafting recipies. 
         7. You get more trapdoors, bark, stairs and bricks upon crafting. 
         8. You can unpack ice, nether wart blocks and wool.
     12. Several other custom commands have been added. These are all listed in the How To Guides
