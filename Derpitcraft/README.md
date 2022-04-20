@@ -37,7 +37,7 @@ PvP fights and discrepancies are judged on a case to case basis, and an investig
    
 7. **Spectator Account Policy**: Spectator accounts will not be allowed this season, except for special cases. If you need a spectator account for any reason, please raise a ticket. Players can use the Replay mod (https://www.replaymod.com/) to create time-lapse's, etc. as an alternative. It is recommended to use this mod.
    
-8.  **Resource Pack Policy**: **Cheating** respource packs are not allowed. This includes, but is not limited to, **X-RAY** resource packs.You can only use normal resource packs. If we detect you as using a resource pack that gives you an unfair advantage, we can take action.  Let us know if you are using a resource pack in [`#ds9-general`](https://discord.com/channels/297301054930944011/965132663910436914).
+8.  **Resource Pack Policy**: **Cheating** respource packs are not allowed. This includes, but is not limited to, **X-RAY** resource packs.You can only use resource packs that do not give you an unfair advantage. If we detect you as using a resource pack that gives you an unfair advantage, we will take action.  It is a good idea to let us know if you are using a resource pack in [`#ds9-general`](https://discord.com/channels/297301054930944011/965132663910436914).
 9.  **Clients, Mods, and More Policy**: The following lists *allowed* modifications to the game. Anything else should be considered not allowed. Raise a ticket if you are unsure.
     1.  Badlion, Lunar, Salwyrr, TLauncher, MultiMC and the official Minecraft Launcher are allowed. **Ask permission in a ticket for other clients**.
     2. Xaero's Minimap and Xaero's Worldmap with **fair play mode on**.
